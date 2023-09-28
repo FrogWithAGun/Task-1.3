@@ -1,0 +1,3 @@
+To get the code to work, once downloaded, please copy the src folder/directory into an already existing vue-project folder.
+I couldn't upload the full vue-project folder. Instead I had to recreate each folder in Github individually, then upload the folder's respective contents.
+I did this for the full src folder and it's child folders, and files; however it will take way too much time to do this for the other folders and their contents.
