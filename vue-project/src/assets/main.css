@@ -1,0 +1,82 @@
+.menu-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.links-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:1%;
+    font-family: "Quicksand", "Josefin Sans", cursive;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.section-title {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+body {
+    background-image: url("Tiles.png");
+    background-repeat: repeat;
+    background-color: green;
+}
+
+.page-content {
+    margin: auto;
+    width: 65%;
+    height: 100%;
+    background-color: white;
+    padding: 15px 50px 50%;
+}
+
+.project-list-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.project-container {
+    width: 45%;
+    padding: 0px 1% 1%;
+    border-style: groove;
+}
+
+.misc-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 1%;
+}
+
+.project-image {
+    display: block;
+    width: 75%;
+    margin: auto;
+}
+
+.score-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    margin: auto;
+}
+
+.text-container {
+    margin: auto;
+    width: 75%;
+}
+
+.nice-button {
+    background-color: teal;
+    color: white;
+    border-style: groove;
+    border-color: teal;
+    border-width: medium;
+    padding: 2% 7% 2%;
+}
